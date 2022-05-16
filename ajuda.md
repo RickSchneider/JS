@@ -20,3 +20,7 @@ git pull
 
 --sobre arquivo pro github
 git push
+
+--limpa terminal
+cls
+clear
